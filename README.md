@@ -1,16 +1,16 @@
 ### Usecase example output
 
-m: (numar de valori ale etichetei)2 <keyboard input>
+m: (numar de valori ale etichetei)2 %keyboard input%
 
-n: (numar de valori posibile ale atributului)2 <keyboard input>
+n: (numar de valori posibile ale atributului)2 %keyboard input%
 
-3 <keyboard input>
+3 %keyboard input%
 
-2 <keyboard input>
+2 %keyboard input%
 
-2 <keyboard input>
+2 %keyboard input%
 
-2 <keyboard input>
+2 %keyboard input%
 
 Entropia atributului de iesire:
 
